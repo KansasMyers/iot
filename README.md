@@ -1,6 +1,6 @@
 # Atividades já realizadas ✔️:
 
-- [x] [blinkSemDelay](blinkSemDelay/README.md)
+- [x] [blinkSemDelay](blinkSemDelay/)
 
 <br/>
 
