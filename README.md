@@ -1,6 +1,7 @@
 # Atividades já realizadas ✔️:
 
 - [x] [blinkSemDelay](blinkSemDelay/)
+- [x] [acendeLedBotao](acendeLedBotao/)
 
 <br/>
 
