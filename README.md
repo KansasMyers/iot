@@ -2,6 +2,7 @@
 
 - [x] [blinkSemDelay](blinkSemDelay/)
 - [x] [acendeLedBotao](acendeLedBotao/)
+- [x] [servosComPotenciometro](servosComPotenciometro/)
 
 <br/>
 
